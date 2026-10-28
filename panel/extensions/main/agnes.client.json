@@ -1,0 +1,15 @@
+{
+  "client": {
+    "entry": "./client/index.js",
+    "styles": ["./client/index.css"],
+    "slots": ["ui:sidebar"],
+    "publicConfig": {
+      "label": "WeatherLab",
+      "subtitle": "\u6781\u7aef\u5929\u6c14\u68c0\u6d4b",
+      "collapsed": false,
+      "refreshMs": 60000
+    },
+    "services": ["weatherlab.panel.metrics"],
+    "projections": []
+  }
+}

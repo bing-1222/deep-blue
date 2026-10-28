@@ -1,0 +1,26 @@
+{
+  "name": "weatherlab-panel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "WeatherLab: extreme-weather detection plugin (six wx_* tools + sidebar panel, zero build step)",
+  "license": "Apache-2.0",
+  "exports": "./index.mjs",
+  "agnes": {
+    "plugins": [
+      {
+        "export": "weatherTools",
+        "id": "ext:weatherlab/panel/main",
+        "inject": [
+          "extension"
+        ]
+      }
+    ],
+    "clientDescriptors": [
+      {
+        "rowId": "ext:weatherlab/panel/main",
+        "path": "./extensions/main/agnes.client.json"
+      }
+    ]
+  }
+}
