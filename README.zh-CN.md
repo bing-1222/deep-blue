@@ -65,7 +65,7 @@ DeepBlue 把「读站点气象数据 → 算基线阈值 → 检测极端事件 
 
 ## 2. 视频介绍（Demo Video）
 
-▶ **演示视频（28 MB，点击播放/下载）：** https://github.com/bing-1222/deep-blue/releases/download/v1.0.0/demo.mp4
+▶ [观看演示视频（28 MB）](https://github.com/bing-1222/deep-blue/releases/download/v1.0.0/demo.mp4)
 
 
 无需上传即可随仓库查看的运行证据：

@@ -71,7 +71,7 @@ Known historical events are reproduced by the frozen criteria — e.g. the 2012-
 
 ## 2. Demo Video
 
-▶ **Demo video (28 MB, click to play/download):** https://github.com/bing-1222/deep-blue/releases/download/v1.0.0/demo.mp4
+▶ [Watch the demo video (28 MB)](https://github.com/bing-1222/deep-blue/releases/download/v1.0.0/demo.mp4)
 
 
 Evidence shipped in-repo without any upload:

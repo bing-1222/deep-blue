@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行期产物
+cache/
+*.log
+serve.pid
+serve.log
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# 密钥与凭据（绝不入库）
+*.key
+*.pem
+key.txt
+.env
+.env.*
+secrets/
+credentials/
+*wsl_export*.sh
+
+# Demo video, GitHub Release only
+demo.mp4

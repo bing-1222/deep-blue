@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "WeatherLab: extreme-weather detection plugin (six wx_* tools + sidebar panel, zero build step)",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "exports": "./index.mjs",
   "agnes": {
     "plugins": [
