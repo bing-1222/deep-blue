@@ -71,7 +71,8 @@ Known historical events are reproduced by the frozen criteria — e.g. the 2012-
 
 ## 2. Demo Video
 
-> _(To be inserted on GitHub: after the first push, open this file on github.com and drag `演示视频.mp4` into this section — GitHub hosts it and renders an inline player.)_
+▶ **Demo video (28 MB, click to play/download):** https://github.com/bing-1222/deep-blue/releases/download/v1.0.0/demo.mp4
+
 
 Evidence shipped in-repo without any upload:
 
